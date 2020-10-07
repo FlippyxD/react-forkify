@@ -1,0 +1,29 @@
+.results {
+  padding: 3rem 0;
+}
+.results__list {
+  list-style: none;
+}
+
+.loader {
+  margin: 5rem auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.loader svg {
+  height: 9rem;
+  width: 9rem;
+  fill: #f59a83;
+  transform-origin: 44% 50%;
+  animation: rotate 1.5s infinite linear;
+}
+
+@keyframes rotate {
+  0% {
+    transform: rotate(360deg);
+  }
+  100% {
+    transform: rotate(0);
+  }
+}
