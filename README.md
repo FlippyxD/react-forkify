@@ -15,5 +15,5 @@ After selecting recipe that caught your eye, you will can:
 
 This project is based of project in [The Complete JavaScript Course 2020: Build Real Projects!](https://www.udemy.com/course/the-complete-javascript-course/)
 
-![Alt text](./src/img/.png?raw=true "Forkify visual")
+![Forkify visual](./src/img/Forkify.png?raw=true "Forkify visual")
 
